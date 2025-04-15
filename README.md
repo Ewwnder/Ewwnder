@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicolas Ferreira
 
-**`Estudante Análise e Desenvolvimento de Sistemask`**
+**`Estudante Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de Iacanga, São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Itu. Me interessei na área após realizar algumas programações em projetos do ensino médio. Atualmente meu GitHub conta com exercícios realizados em aula, códigos de maratonas e cursos.
 
