@@ -43,6 +43,9 @@ Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de I
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+
+
+
 <img 
     align="left" 
     alt="HTML"
@@ -59,6 +62,7 @@ Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de I
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -115,7 +119,7 @@ Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de I
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ewwnder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasMorais42&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -123,7 +127,7 @@ Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de I
       alt="GitHub Stats"
       height="200"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ewwnder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais42&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
