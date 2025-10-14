@@ -67,6 +67,6 @@ Me chamo Nicolas Aparecido dos Santos Ferreira, tenho 19 anos e sou natural de I
 
 <div align="center">
   <a href="https://github.com/Ewwnder">
-  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api?username=Ewwnder&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api?username=Ewwnder&show_icons=true&theme=aura&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-blond-iota-94.vercel.app/api/top-langs/?username=Ewwnder&layout=compact&langs_count=7&theme=aura"/>
 </div>
